@@ -97,6 +97,7 @@ html {
 }
 
 .icon {
+  list-style: none;
   flex-grow: 1;
   width: 26px;
   height: 26px;
