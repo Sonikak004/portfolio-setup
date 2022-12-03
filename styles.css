@@ -46,7 +46,7 @@ a .navImage {
   padding: 120px 24px;
   gap: 12px;
   background:
-    var(--background) url("../images/background.svg") no-repeat 100%
+    var(--background) url("Group.png") no-repeat 100%
     100%;
 }
 
@@ -241,7 +241,7 @@ a .navImage {
   padding: 120px 24px;
   gap: 12px;
   background:
-    var(--background) url("./images/background.svg") no-repeat 100%
+    var(--background) url("illustrationlogo.png") no-repeat 100%
     100%;
 }
 
