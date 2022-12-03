@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Poppins&display=swap');
+
 html {
   box-sizing: border-box;
   padding: 0;
@@ -14,7 +17,7 @@ html {
   background: #3c3a39;
 }
 
-.firstpage {
+.pageone {
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -27,27 +30,27 @@ html {
   background: #1c1a19;
 }
 
-.heading {
-  width: 365px;
+.main-title {
+  width: 327px;
   height: 124px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Crete Round', serif;
   font-style: normal;
-  font-weight: 550;
+  font-weight: 400;
   font-size: 56px;
-  line-height: 60px;
+  line-height: 64px;
   letter-spacing: 0.37px;
-  color: #0eda44;
+  color: #ff6b00;
   flex: none;
 }
 
 .profession {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
   line-height: 32px;
   align-items: center;
-  color: #cfe9d9;
+  color: #fff5e1;
 }
 
 .navbar {
@@ -57,19 +60,19 @@ html {
 .vector {
   width: 20px;
   height: 3px;
-  background-color: #cfe9d9;
+  background-color: #fff;
   margin-bottom: 4px;
 }
 
 .paragraph {
   width: 327px;
   height: 123px;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
-  color: #cfe9d9;
+  color: #fff;
 }
 
 .heading-text {
@@ -82,27 +85,29 @@ html {
   display: flex;
   align-items: center;
   text-align: center;
-  color: #cfe9d9;
+  color: #fff;
   padding-left: 15%;
   flex-grow: 0;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Roboto', sans-serif;
   text-decoration: none;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .social-media-icons {
-  width: 260px;
+  width: 200px;
   height: 40px;
   display: flex;
   align-content: space-between;
 }
 
 .icon {
-  list-style: none;
   flex-grow: 1;
   width: 26px;
   height: 26px;
   display: flex;
   align-items: center;
   justify-content: space-around;
-  column-gap: 25px;
 }
