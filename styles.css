@@ -14,7 +14,7 @@ html {
   display: flex;
   justify-content: space-between;
   width: 375px;
-  background: #3c3a39;
+  background:#3c3a39;
 }
 
 .page1 {
@@ -77,14 +77,14 @@ main {
 .regular-text { 
   width: 327px;
   height: 123px;
-  font-family: 'Poppins';
+  font-family: 'Poppins','Arial', 'Helvetica', 'sans-serif';
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   position: relative;
   bottom: 35px;
-  color: #FFFFFF;
+  color: #fff;
 }
 
 .header-text {
