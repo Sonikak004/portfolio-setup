@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crete+Round&family=Poppins&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Roboto&display=swap");
 
 html {
@@ -41,7 +41,7 @@ main {
 
 .main-title {
   width: 327px;
-  font-family: 'Crete Round', serif;
+  font-family: "Crete Round", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 56px;
@@ -52,7 +52,7 @@ main {
 }
 
 .job-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -77,7 +77,7 @@ main {
 .regular-text {
   width: 327px;
   height: 123px;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -98,7 +98,7 @@ main {
   text-align: center;
   color: #fff;
   padding-left: 15%;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 
 ul {
@@ -147,7 +147,7 @@ ul {
 .works_header-text {
   width: 327px;
   height: 83px;
-  font-family: 'Crete Round', serif;
+  font-family: "Crete Round", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 40px;
@@ -180,7 +180,7 @@ ul {
 .wtext1 {
   width: 327px;
   height: 36px;
-  font-family: 'Crete Round', serif;
+  font-family: "Crete Round", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
@@ -193,7 +193,7 @@ ul {
 .wtext2 {
   width: 327px;
   height: 147px;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -214,7 +214,7 @@ ul {
   text-align: center;
   width: 25px;
   height: 20px;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -291,7 +291,7 @@ ul {
 
 .ltext1 {
   display: flex;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 17px;
@@ -301,7 +301,12 @@ ul {
 }
 
 .card {
-  background: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%), url("./images/img2.png");
+  background: linear-gradient(
+      180.45deg,
+      rgba(38, 38, 38, 0) 0.75%,
+      rgba(38, 38, 38, 0.9) 61.94%
+    ),
+    url("./images/img2.png");
   background-repeat: no-repeat;
   line-height: 75px;
   background-size: 327px 386px;
@@ -338,7 +343,7 @@ ul {
   display: flex;
   width: 295px;
   height: 81px;
-  font-family: 'Crete Round', serif;
+  font-family: "Crete Round", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 32px;
@@ -353,7 +358,7 @@ ul {
   padding-left: 5%;
   width: 295px;
   height: 87px;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -371,7 +376,7 @@ ul {
 
 .bot {
   display: flex;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 15px;
@@ -438,7 +443,7 @@ a {
 .about-text {
   width: 327px;
   height: 79px;
-  font-family: 'Crete Round', serif;
+  font-family: "Crete Round", serif;
   font-style: normal;
   align-self: center;
   font-weight: 400;
@@ -453,7 +458,7 @@ a {
   align-self: center;
   width: 327px;
   height: 148px;
-  font-family: 'Inter', serif;
+  font-family: "Inter", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -559,7 +564,7 @@ li {
   display: flex;
   align-items: center;
   text-align: center;
-  font-family: 'Inter', serif;
+  font-family: "Inter", serif;
 }
 
 .shape2 {
@@ -586,7 +591,7 @@ li {
   padding-top: 10%;
   width: 327px;
   height: 216px;
-  font-family: 'Inter', serif;
+  font-family: "Inter", serif;
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
@@ -597,7 +602,7 @@ li {
 
 .form-text {
   outline: none;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -621,7 +626,7 @@ li {
 
 .form-text2 {
   outline: none;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -668,5 +673,4 @@ label {
   flex-direction: row;
   margin-left: -69px;
   padding-right: 100px;
-
 }
