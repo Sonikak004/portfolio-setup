@@ -116,16 +116,17 @@ ul {
 .social-media-under {
   margin-top: 5px;
   margin-left: 109px;
-  width: 200px;
+  width: 233px;
   height: 40px;
   display: flex;
   align-content: center;
   align-items: center;
+  justify-content: space-evenly;
 }
 
 .icon {
   flex-grow: 1;
-  width: 26px;
+  width: 22px;
   height: 26px;
   display: flex;
   align-items: center;
