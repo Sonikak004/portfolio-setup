@@ -115,7 +115,7 @@ ul {
 
 .social-media-under {
   margin-top: 5px;
-  margin-left: 40px;
+  margin-left: 109px;
   width: 200px;
   height: 40px;
   display: flex;
@@ -659,4 +659,13 @@ label {
   flex-direction: column;
   width: 90px;
   text-align: right;
+}
+
+.form-bottom {
+  margin-top: 59px;
+  padding-top: 25px;
+  display: flex;
+  flex-direction: row;
+  margin-left: -69px;
+  padding-right: 100px;
 }
